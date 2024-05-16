@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I'm a Bioinformatics Engineer working at [Dynamic Biosystems](http://www.dynamic-biosystems.com/)
-🌱 My background is in Bioinformatics. Single cell data analysis is one of my specialties.
+🔭 I'm a Bioinformatics Engineer working at [Dynamic Biosystems](http://www.dynamic-biosystems.com/)  
+🌱 My background is in Bioinformatics. Single cell data analysis is one of my specialties.  
 😄 I'm keen to data Visualization and am equally enthusiastic about R pkg development.
 <!--
 **xyifan97/xyifan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
