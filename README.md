@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I'm a Bioinformatics Engineer working at [Dynamic Biosystems](http://www.dynamic-biosystems.com/)  
+🔭 I'm a Bioinformatics Engineer working at [Dynamic Biosystems](http://www.dynamic-biosystems.com/).  
 🌱 My background is in Bioinformatics. Single cell data analysis is one of my specialties.  
 😄 I'm keen to data Visualization and am equally enthusiastic about R pkg development.
 <!--
