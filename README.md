@@ -1,7 +1,9 @@
 ### Hi there 👋
 🔭 I'm a Bioinformatics Engineer working at [Dynamic Biosystems](http://www.dynamic-biosystems.com/).  
 🌱 I have research experience both in Bioinformatic and Experimental fields. Single cell data analysis is one of my specialties.  
-😄 I'm keen to apply bioinformatic methdology to elucidate the mechanisms of dieases. Data Visualization and R pkg development are also interested.
+😄 I'm keen to apply bioinformatic methdology to elucidate the mechanisms of dieases. 
+⚡ Data Visualization and R pkg development are also interested.
+
 <!--
 **xyifan97/xyifan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
