@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I'm a Bioinformatics Engineer working at [Dynamic Biosystems](http://www.dynamic-biosystems.com/).  
-🌱 I have research experience both in Bioinformatic and Experimental fields. Single cell data analysis is one of my specialties.  
+🔭 I'm a Bioinformatics Engineer.  
+🌱 I have research experience both in Bioinformatic and Experimental fields. Two years experience in Single cell data analysis.  
 😄 I'm keen to apply bioinformatic methdology to elucidate the mechanisms of dieases.  
 ⚡ Data Visualization and tools development are also interested.
 
