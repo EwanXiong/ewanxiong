@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I'm now a Research Assistant in (XGlab)[http://eca.xglab.tech/member/index.html] of TsingHua University.  
+🔭 I'm now a Research Assistant in [XGlab](http://eca.xglab.tech/member/index.html) of TsingHua University.  
 🌱 I have research experience both in Bioinformatic and Experimental fields. Two years experience in Single cell data analysis.  
 😄 I'm keen to apply bioinformatic methdology to elucidate the mechanisms of dieases.  
 ⚡ Data Visualization and tools development are also interested.
