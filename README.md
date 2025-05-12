@@ -1,8 +1,6 @@
 ### Hi there 👋
 🔭 I'm now a Research Assistant of [XGlab](http://eca.xglab.tech/member/index.html) in TsingHua University.  
-🌱 I have research experience both in Bioinformatic and Experimental fields. Two years experience in Single cell data analysis.  
-😄 I'm keen to apply bioinformatic methdology to elucidate the mechanisms of dieases.  
-⚡ Data Visualization and tools development are also interested.
+🌱 I’m also an incoming PhD student in the Genetics, Genomics, and Bioinformatics ([GGB](https://genetics.ucr.edu/)) program at the University of California Riverside, starting in Fall 2025.
 
 <!--
 **xyifan97/xyifan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
